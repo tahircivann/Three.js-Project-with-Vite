@@ -1,5 +1,5 @@
 # Three.js Project with Vite
-![Screenshot_2](https://github.com/tahircivann/Three.js-Project-with-Vite/assets/69795597/1e6a4384-9fa3-48dd-bff3-984ae83735ce)
+![dPHDJuD048Rl_8f9FUF5cmVJ2CGsaQInzDJqi8KHjrrsoB0OZV6_km9jQS6MoWbcvvdPTpuO5qQmAJFb55kfSy4YWvYod3HgCpUV2e4nDaAd2bikQn5lKwPI9nufOhW9Wk3HznmZZIMYDqQytHHmvqD82IgfKuY85BZWxOA3BqLgOpbEReE9566qvsPC6vjr15yEs6SP2gcjVGMk-s2_Va](https://github.com/tahircivann/Three.js-Project-with-Vite/assets/69795597/93cd2f10-097c-49ad-b1ad-90da4b963823)
 
 This project is a 3D modeling tool built with Three.js, Vite, and various Three.js extensions. It allows users to create, manipulate, and export 3D models with subdivision surfaces, free-form deformation (FFD), and smoothing.
 
